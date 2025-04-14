@@ -886,7 +886,7 @@
                     </div>
                     <div class="product-info">
                         <h3 class="product-name">Premium Bifold Wallet</h3>
-                        <p class="product-price">$89.99</p>
+                        <p class="product-price">₹899</p>
                         <button class="btn product-btn">Add to Cart</button>
                     </div>
                 </div>
@@ -896,7 +896,7 @@
                     </div>
                     <div class="product-info">
                         <h3 class="product-name">Classic Leather Belt</h3>
-                        <p class="product-price">$69.99</p>
+                        <p class="product-price">₹699</p>
                         <button class="btn product-btn">Add to Cart</button>
                     </div>
                 </div>
@@ -906,7 +906,7 @@
                     </div>
                     <div class="product-info">
                         <h3 class="product-name">Executive Messenger Bag</h3>
-                        <p class="product-price">$149.99</p>
+                        <p class="product-price">₹1499</p>
                         <button class="btn product-btn">Add to Cart</button>
                     </div>
                 </div>
